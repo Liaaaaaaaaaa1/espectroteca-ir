@@ -5,7 +5,7 @@
     "formula": "C5H10O2",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/2-methylbutyric-acid.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/2-methylbutyric-acid.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido 2-metilbutanoico",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -16,7 +16,7 @@
     "formula": "C18H34O2",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/9-octadecenoic-acid-z.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/9-octadecenoic-acid-z.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido oleico (ácido (Z)-9-octadecenoico)",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -27,7 +27,7 @@
     "formula": "C2H4O2",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/acetic-acid.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/acetic-acid.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido acético",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -38,7 +38,7 @@
     "formula": "C7H6O2",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/benzoic-acid.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/benzoic-acid.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido benzoico",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -49,7 +49,7 @@
     "formula": "C5H8O4",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/butanedioic-acid-methyl.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/butanedioic-acid-methyl.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido metilsuccínico",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -60,7 +60,7 @@
     "formula": "C4H6O4",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/butanedioic-acid.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/butanedioic-acid.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido succínico",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -71,7 +71,7 @@
     "formula": "C4H8O2",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/butanoic-acid.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/butanoic-acid.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido butanoico",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -82,7 +82,7 @@
     "formula": "CH2O2",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/formic-acid.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/formic-acid.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido fórmico",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -93,7 +93,7 @@
     "formula": "C7H14O2",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/heptanoic-acid.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/heptanoic-acid.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido heptanoico",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -104,7 +104,7 @@
     "formula": "C8H16O2",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/hexanoic-acid-2-ethyl.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/hexanoic-acid-2-ethyl.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido 2-etilhexanoico",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -115,7 +115,7 @@
     "formula": "C9H18O2",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/hexanoic-acid-3-5-5-trimethyl.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/hexanoic-acid-3-5-5-trimethyl.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido 3,5,5-trimetilhexanoico",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -126,7 +126,7 @@
     "formula": "C6H12O2",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/hexanoic-acid.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/hexanoic-acid.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido hexanoico",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -137,7 +137,7 @@
     "formula": "C4H8O2",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/isobutyric-acid.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/isobutyric-acid.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido isobutírico",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -148,7 +148,7 @@
     "formula": "C10H20O2",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/n-decanoic-acid.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/n-decanoic-acid.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido decanoico",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -159,7 +159,7 @@
     "formula": "C9H18O2",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/nonanoic-acid.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/nonanoic-acid.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido nonanoico",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -170,7 +170,7 @@
     "formula": "C8H16O2",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/octanoic-acid.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/octanoic-acid.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido octanoico",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -181,7 +181,7 @@
     "formula": "C5H10O2",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/pentanoic-acid.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/pentanoic-acid.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido pentanoico",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -192,7 +192,7 @@
     "formula": "C3H6O3",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/propanoic-acid-2-hydroxy.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/propanoic-acid-2-hydroxy.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido láctico",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -203,7 +203,7 @@
     "formula": "C7H6O3",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/salicylic-acid.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/salicylic-acid.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido salicílico",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -214,7 +214,7 @@
     "formula": "C11H22O2",
     "cas": "",
     "group": "Ácidos carboxílicos",
-    "image": "imagenes_espectros/acidos-carboxilicos/undecanoic-acid.gif",
+    "image": "imagenes_espectros/Acidos carboxilicos/undecanoic-acid.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ácido undecanoico",
     "signalsReference": "O–H muy ancho: 2500–3300 cm⁻¹; C=O: 1700–1725 cm⁻¹; C–O: 1210–1320 cm⁻¹."
@@ -225,7 +225,7 @@
     "formula": "C6H14",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/2-2-dimethylbutane.gif",
+    "image": "imagenes_espectros/Alcanos/2-2-dimethylbutane.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2,2-dimetilbutano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -236,7 +236,7 @@
     "formula": "C7H16",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/2-2-dimethylpentane.gif",
+    "image": "imagenes_espectros/Alcanos/2-2-dimethylpentane.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2,2-dimetilpentano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -247,7 +247,7 @@
     "formula": "C6H14",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/2-3-dimethylbutane.gif",
+    "image": "imagenes_espectros/Alcanos/2-3-dimethylbutane.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2,3-dimetilbutano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -258,7 +258,7 @@
     "formula": "C7H16",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/2-3-dimethylpentane.gif",
+    "image": "imagenes_espectros/Alcanos/2-3-dimethylpentane.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2,3-dimetilpentano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -269,7 +269,7 @@
     "formula": "C8H18",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/2-4-dimethylhexane.gif",
+    "image": "imagenes_espectros/Alcanos/2-4-dimethylhexane.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2,4-dimetilhexano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -280,7 +280,7 @@
     "formula": "C8H18",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/3-methylheptane.gif",
+    "image": "imagenes_espectros/Alcanos/3-methylheptane.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-metilheptano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -291,7 +291,7 @@
     "formula": "C7H16",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/3-methylhexane.gif",
+    "image": "imagenes_espectros/Alcanos/3-methylhexane.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-metilhexano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -302,7 +302,7 @@
     "formula": "C5H12",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/butane-2-methyl.gif",
+    "image": "imagenes_espectros/Alcanos/butane-2-methyl.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-metilbutano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -313,7 +313,7 @@
     "formula": "C6H12",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/cyclohexane.gif",
+    "image": "imagenes_espectros/Alcanos/cyclohexane.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Ciclohexano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -324,7 +324,7 @@
     "formula": "C10H22",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/decane.gif",
+    "image": "imagenes_espectros/Alcanos/decane.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Decano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -335,7 +335,7 @@
     "formula": "C7H16",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/heptane.gif",
+    "image": "imagenes_espectros/Alcanos/heptane.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Heptano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -346,7 +346,7 @@
     "formula": "C6H14",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/hexane.gif",
+    "image": "imagenes_espectros/Alcanos/hexane.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Hexano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -357,7 +357,7 @@
     "formula": "C5H12",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/isopentane.gif",
+    "image": "imagenes_espectros/Alcanos/isopentane.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-metilbutano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -368,7 +368,7 @@
     "formula": "C9H20",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/nonane.gif",
+    "image": "imagenes_espectros/Alcanos/nonane.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Nonano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -379,7 +379,7 @@
     "formula": "C8H18",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/octane.gif",
+    "image": "imagenes_espectros/Alcanos/octane.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Octano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -390,7 +390,7 @@
     "formula": "C8H18",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/pentane-2-2-4-trimethyl.gif",
+    "image": "imagenes_espectros/Alcanos/pentane-2-2-4-trimethyl.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2,2,4-trimetilpentano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -401,7 +401,7 @@
     "formula": "C6H14",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/pentane-2-methyl.gif",
+    "image": "imagenes_espectros/Alcanos/pentane-2-methyl.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-metilpentano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -412,7 +412,7 @@
     "formula": "C7H16",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/pentane-3-ethyl.gif",
+    "image": "imagenes_espectros/Alcanos/pentane-3-ethyl.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-etilpentano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -423,7 +423,7 @@
     "formula": "C6H14",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/pentane-3-methyl.gif",
+    "image": "imagenes_espectros/Alcanos/pentane-3-methyl.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-metilpentano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -434,7 +434,7 @@
     "formula": "C5H12",
     "cas": "",
     "group": "Alcanos",
-    "image": "imagenes_espectros/alcanos/pentane.gif",
+    "image": "imagenes_espectros/Alcanos/pentane.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Pentano",
     "signalsReference": "C–H sp³: 2850–2960 cm⁻¹; deformaciones CH₂/CH₃: 1370–1470 cm⁻¹."
@@ -445,7 +445,7 @@
     "formula": "C5H12O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/2-metil-1-butanol.gif",
+    "image": "imagenes_espectros/Alcoholes/2-metil-1-butanol.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-metil-1-butanol (mezcla racémica)",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -456,7 +456,7 @@
     "formula": "C4H10O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/1-butanol.gif",
+    "image": "imagenes_espectros/Alcoholes/1-butanol.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "1-butanol",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -467,7 +467,7 @@
     "formula": "C10H22O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/1-decanol.gif",
+    "image": "imagenes_espectros/Alcoholes/1-decanol.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "1-decanol",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -478,7 +478,7 @@
     "formula": "C7H16O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/1-heptanol.gif",
+    "image": "imagenes_espectros/Alcoholes/1-heptanol.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "1-heptanol",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -489,7 +489,7 @@
     "formula": "C8H18O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/1-octanol.gif",
+    "image": "imagenes_espectros/Alcoholes/1-octanol.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "1-octanol",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -500,7 +500,7 @@
     "formula": "C5H12O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/1-pentanol.gif",
+    "image": "imagenes_espectros/Alcoholes/1-pentanol.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "1-pentanol",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -511,7 +511,7 @@
     "formula": "C3H8O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/1-propanol.gif",
+    "image": "imagenes_espectros/Alcoholes/1-propanol.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "1-propanol",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -522,7 +522,7 @@
     "formula": "C4H10O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/2-butanol.gif",
+    "image": "imagenes_espectros/Alcoholes/2-butanol.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-butanol",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -533,7 +533,7 @@
     "formula": "C6H14O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/2-hexanol.gif",
+    "image": "imagenes_espectros/Alcoholes/2-hexanol.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-hexanol",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -544,7 +544,7 @@
     "formula": "C4H10O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/2-metil-1-propanol.gif",
+    "image": "imagenes_espectros/Alcoholes/2-metil-1-propanol.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-metil-1-propanol",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -555,7 +555,7 @@
     "formula": "C4H10O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/2-metil-2-propanol.gif",
+    "image": "imagenes_espectros/Alcoholes/2-metil-2-propanol.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-metil-2-propanol",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -566,7 +566,7 @@
     "formula": "C5H12O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/2-pentanol.gif",
+    "image": "imagenes_espectros/Alcoholes/2-pentanol.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-pentanol",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -577,7 +577,7 @@
     "formula": "C3H8O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/2-propanol.gif",
+    "image": "imagenes_espectros/Alcoholes/2-propanol.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-propanol",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -588,7 +588,7 @@
     "formula": "C6H14O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/3-hexanol.gif",
+    "image": "imagenes_espectros/Alcoholes/3-hexanol.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-hexanol",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -599,7 +599,7 @@
     "formula": "C5H12O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/3-metil-1-butanol.gif",
+    "image": "imagenes_espectros/Alcoholes/3-metil-1-butanol.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-metil-1-butanol",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -610,7 +610,7 @@
     "formula": "C5H12O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/3-pentanol.gif",
+    "image": "imagenes_espectros/Alcoholes/3-pentanol.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-pentanol",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -621,7 +621,7 @@
     "formula": "C2H6O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/alcohol-etilico.gif",
+    "image": "imagenes_espectros/Alcoholes/alcohol-etilico.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Etanol",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -632,7 +632,7 @@
     "formula": "C6H14O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/alcohol-hexilico.gif",
+    "image": "imagenes_espectros/Alcoholes/alcohol-hexilico.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "1-hexanol",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -643,7 +643,7 @@
     "formula": "C6H12O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/ciclohexanol.gif",
+    "image": "imagenes_espectros/Alcoholes/ciclohexanol.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "ciclohexanol",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -654,7 +654,7 @@
     "formula": "CH4O",
     "cas": "",
     "group": "Alcoholes",
-    "image": "imagenes_espectros/alcoholes/metanol.gif",
+    "image": "imagenes_espectros/Alcoholes/metanol.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Metanol",
     "signalsReference": "O–H: 3200–3600 cm⁻¹ (ancho); C–O: 1000–1260 cm⁻¹; C–H sp³: 2850–2960 cm⁻¹."
@@ -665,7 +665,7 @@
     "formula": "C8H16O",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/2-ciclohexiletanol.gif",
+    "image": "imagenes_espectros/Aldehidos/2-ciclohexiletanol.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-ciclohexiletanol",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -676,7 +676,7 @@
     "formula": "C8H16O",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/2-etilhexanal.gif",
+    "image": "imagenes_espectros/Aldehidos/2-etilhexanal.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-etilhexanal",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -687,7 +687,7 @@
     "formula": "C5H4O2",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/2-furaldehido.gif",
+    "image": "imagenes_espectros/Aldehidos/2-furaldehido.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-furaldehído",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -698,7 +698,7 @@
     "formula": "C5H10O",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/2-metilbutanal.gif",
+    "image": "imagenes_espectros/Aldehidos/2-metilbutanal.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-metilbutanal",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -709,7 +709,7 @@
     "formula": "C6H12O",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/2-metilpentanal.gif",
+    "image": "imagenes_espectros/Aldehidos/2-metilpentanal.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-metilpentanal",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -720,7 +720,7 @@
     "formula": "C8H8O3",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/3-metoxisalicilaldehido.gif",
+    "image": "imagenes_espectros/Aldehidos/3-metoxisalicilaldehido.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-metoxisalicilaldehído",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -731,7 +731,7 @@
     "formula": "C2H4O",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/acetaldehido.gif",
+    "image": "imagenes_espectros/Aldehidos/acetaldehido.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "acetaldehído",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -742,7 +742,7 @@
     "formula": "C3H4O",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/acrilaldehido.gif",
+    "image": "imagenes_espectros/Aldehidos/acrilaldehido.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "acrilaldehído",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -753,7 +753,7 @@
     "formula": "C7H6O",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/benzaldehido.gif",
+    "image": "imagenes_espectros/Aldehidos/benzaldehido.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "benzaldehído",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -764,7 +764,7 @@
     "formula": "C4H8O",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/butiraldehido.gif",
+    "image": "imagenes_espectros/Aldehidos/butiraldehido.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "butiraldehído",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -775,7 +775,7 @@
     "formula": "C9H8O",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/cinamaldehido.gif",
+    "image": "imagenes_espectros/Aldehidos/cinamaldehido.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "cinamaldehído",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -786,7 +786,7 @@
     "formula": "C8H8O",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/fenilacetaldehido.gif",
+    "image": "imagenes_espectros/Aldehidos/fenilacetaldehido.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "fenilacetaldehído",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -797,7 +797,7 @@
     "formula": "C7H14O",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/heptanal.gif",
+    "image": "imagenes_espectros/Aldehidos/heptanal.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "heptanal",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -808,7 +808,7 @@
     "formula": "C6H12O",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/hexanal.gif",
+    "image": "imagenes_espectros/Aldehidos/hexanal.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "hexanal",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -819,7 +819,7 @@
     "formula": "C5H10O",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/isovaleraldehido.gif",
+    "image": "imagenes_espectros/Aldehidos/isovaleraldehido.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "isovaleraldehído",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -830,7 +830,7 @@
     "formula": "C8H16O",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/octanal.gif",
+    "image": "imagenes_espectros/Aldehidos/octanal.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "octanal",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -841,7 +841,7 @@
     "formula": "C8H8O",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/p-tolualdehido.gif",
+    "image": "imagenes_espectros/Aldehidos/p-tolualdehido.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "p-tolualdehído",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -852,7 +852,7 @@
     "formula": "C5H10O",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/pivalaldehido.gif",
+    "image": "imagenes_espectros/Aldehidos/pivalaldehido.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "pivalaldehído",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -863,7 +863,7 @@
     "formula": "C8H8O3",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/vainillina.gif",
+    "image": "imagenes_espectros/Aldehidos/vainillina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "vainillina",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -874,7 +874,7 @@
     "formula": "C5H10O",
     "cas": "",
     "group": "Aldehídos",
-    "image": "imagenes_espectros/aldehidos/valeraldehido.gif",
+    "image": "imagenes_espectros/Aldehidos/valeraldehido.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "valeraldehído",
     "signalsReference": "C=O: aproximadamente 1720–1740 cm⁻¹ (puede bajar por conjugación); C–H aldehídico: bandas débiles cerca de 2720 y 2820 cm⁻¹."
@@ -885,7 +885,7 @@
     "formula": "C5H10",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/e-3-4-dimetil-2-penteno.gif",
+    "image": "imagenes_espectros/Alquenos/e-3-4-dimetil-2-penteno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "(E)-3,4-dimetil-2-penteno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -896,7 +896,7 @@
     "formula": "C5H10",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/z-3-4-dimetil-2-penteno.gif",
+    "image": "imagenes_espectros/Alquenos/z-3-4-dimetil-2-penteno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "(Z)-3,4-dimetil-2-penteno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -907,7 +907,7 @@
     "formula": "C10H20",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/1-deceno.gif",
+    "image": "imagenes_espectros/Alquenos/1-deceno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "1-deceno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -918,7 +918,7 @@
     "formula": "C5H10",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/1-penteno.gif",
+    "image": "imagenes_espectros/Alquenos/1-penteno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "1-penteno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -929,7 +929,7 @@
     "formula": "C5H10",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/2-3-dimetil-1-penteno.gif",
+    "image": "imagenes_espectros/Alquenos/2-3-dimetil-1-penteno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2,3-dimetil-1-penteno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -940,7 +940,7 @@
     "formula": "C5H10",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/2-3-dimetil-2-penteno.gif",
+    "image": "imagenes_espectros/Alquenos/2-3-dimetil-2-penteno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2,3-dimetil-2-penteno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -951,7 +951,7 @@
     "formula": "C5H10",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/2-4-dimetil-1-penteno.gif",
+    "image": "imagenes_espectros/Alquenos/2-4-dimetil-1-penteno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2,4-dimetil-1-penteno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -962,7 +962,7 @@
     "formula": "C8H16",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/2-6-dimetil-2-octeno.gif",
+    "image": "imagenes_espectros/Alquenos/2-6-dimetil-2-octeno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2,6-dimetil-2-octeno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -973,7 +973,7 @@
     "formula": "C5H10",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/2-metil-1-buteno.gif",
+    "image": "imagenes_espectros/Alquenos/2-metil-1-buteno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-metil-1-buteno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -984,7 +984,7 @@
     "formula": "C6H12",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/2-metil-1-penteno.gif",
+    "image": "imagenes_espectros/Alquenos/2-metil-1-penteno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-metil-1-penteno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -995,7 +995,7 @@
     "formula": "C5H10",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/2-metil-2-buteno.gif",
+    "image": "imagenes_espectros/Alquenos/2-metil-2-buteno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-metil-2-buteno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -1006,7 +1006,7 @@
     "formula": "C5H10",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/2-penteno.gif",
+    "image": "imagenes_espectros/Alquenos/2-penteno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-penteno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -1017,7 +1017,7 @@
     "formula": "C7H14",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/cis-2-hepteno.gif",
+    "image": "imagenes_espectros/Alquenos/cis-2-hepteno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "cis-2-hepteno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -1028,7 +1028,7 @@
     "formula": "C5H10",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/cis-2-penteno.gif",
+    "image": "imagenes_espectros/Alquenos/cis-2-penteno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "cis-2-penteno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -1039,7 +1039,7 @@
     "formula": "C5H10",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/penteno.gif",
+    "image": "imagenes_espectros/Alquenos/penteno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "penteno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -1050,7 +1050,7 @@
     "formula": "C7H14",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/trans-2-hepteno.gif",
+    "image": "imagenes_espectros/Alquenos/trans-2-hepteno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "trans-2-hepteno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -1061,7 +1061,7 @@
     "formula": "C6H12",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/trans-2-hexeno.gif",
+    "image": "imagenes_espectros/Alquenos/trans-2-hexeno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "trans-2-hexeno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -1072,7 +1072,7 @@
     "formula": "C5H10",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/trans-2-penteno.gif",
+    "image": "imagenes_espectros/Alquenos/trans-2-penteno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "trans-2-penteno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -1083,7 +1083,7 @@
     "formula": "C6H12",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/trans-4-metil-2-penteno.gif",
+    "image": "imagenes_espectros/Alquenos/trans-4-metil-2-penteno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "trans-4-metil-2-penteno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -1094,7 +1094,7 @@
     "formula": "C10H20",
     "cas": "",
     "group": "Alquenos",
-    "image": "imagenes_espectros/alquenos/trans-5-deceno.gif",
+    "image": "imagenes_espectros/Alquenos/trans-5-deceno.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "trans-5-deceno",
     "signalsReference": "C=C: 1620–1680 cm⁻¹; =C–H: 3020–3100 cm⁻¹; flexión fuera del plano: 650–1000 cm⁻¹, dependiente de sustitución."
@@ -1105,7 +1105,7 @@
     "formula": "C10H18",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/1-decino.gif",
+    "image": "imagenes_espectros/Alquinos/1-decino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "1-decino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1116,7 +1116,7 @@
     "formula": "C7H12",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/1-heptino.gif",
+    "image": "imagenes_espectros/Alquinos/1-heptino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "1-heptino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1127,7 +1127,7 @@
     "formula": "C6H10",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/1-hexino.gif",
+    "image": "imagenes_espectros/Alquinos/1-hexino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "1-hexino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1138,7 +1138,7 @@
     "formula": "C9H16",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/1-nonino.gif",
+    "image": "imagenes_espectros/Alquinos/1-nonino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "1-nonino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1149,7 +1149,7 @@
     "formula": "C5H8",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/1-pentino.gif",
+    "image": "imagenes_espectros/Alquinos/1-pentino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "1-pentino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1160,7 +1160,7 @@
     "formula": "C4H6",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/2-butino.gif",
+    "image": "imagenes_espectros/Alquinos/2-butino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-butino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1171,7 +1171,7 @@
     "formula": "C10H18",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/2-decino.gif",
+    "image": "imagenes_espectros/Alquinos/2-decino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-decino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1182,7 +1182,7 @@
     "formula": "C7H12",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/2-heptino.gif",
+    "image": "imagenes_espectros/Alquinos/2-heptino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-heptino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1193,7 +1193,7 @@
     "formula": "C9H16",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/2-nonino.gif",
+    "image": "imagenes_espectros/Alquinos/2-nonino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-nonino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1204,7 +1204,7 @@
     "formula": "C8H14",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/2-octino.gif",
+    "image": "imagenes_espectros/Alquinos/2-octino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-octino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1215,7 +1215,7 @@
     "formula": "C5H8",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/2-pentino.gif",
+    "image": "imagenes_espectros/Alquinos/2-pentino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-pentino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1226,7 +1226,7 @@
     "formula": "C7H12",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/3-heptino.gif",
+    "image": "imagenes_espectros/Alquinos/3-heptino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-heptino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1237,7 +1237,7 @@
     "formula": "C9H16",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/3-nonino.gif",
+    "image": "imagenes_espectros/Alquinos/3-nonino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-nonino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1248,7 +1248,7 @@
     "formula": "C8H14",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/3-octino.gif",
+    "image": "imagenes_espectros/Alquinos/3-octino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-octino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1259,7 +1259,7 @@
     "formula": "C6H10",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/4-metil-1-pentino.gif",
+    "image": "imagenes_espectros/Alquinos/4-metil-1-pentino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "4-metil-1-pentino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1270,7 +1270,7 @@
     "formula": "C6H10",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/4-metil-2-pentino.gif",
+    "image": "imagenes_espectros/Alquinos/4-metil-2-pentino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "4-metil-2-pentino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1281,7 +1281,7 @@
     "formula": "C8H14",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/4-octino.gif",
+    "image": "imagenes_espectros/Alquinos/4-octino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "4-octino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1292,7 +1292,7 @@
     "formula": "C7H12",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/5-metil-1-hexino.gif",
+    "image": "imagenes_espectros/Alquinos/5-metil-1-hexino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "5-metil-1-hexino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1303,7 +1303,7 @@
     "formula": "C8H14",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/6-metil-2-heptino.gif",
+    "image": "imagenes_espectros/Alquinos/6-metil-2-heptino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "6-metil-2-heptino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1314,7 +1314,7 @@
     "formula": "C9H16",
     "cas": "",
     "group": "Alquinos",
-    "image": "imagenes_espectros/alquinos/7-metil-3-octino.gif",
+    "image": "imagenes_espectros/Alquinos/7-metil-3-octino.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "7-metil-3-octino",
     "signalsReference": "C≡C: 2100–2260 cm⁻¹ (a veces débil o ausente en alquinos internos simétricos); ≡C–H terminal: cerca de 3300 cm⁻¹."
@@ -1325,7 +1325,7 @@
     "formula": "C8H9NO",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/2-acetil-4-metilpiridina.gif",
+    "image": "imagenes_espectros/Amidas/2-acetil-4-metilpiridina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-acetil-4-metilpiridina",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1336,7 +1336,7 @@
     "formula": "C8H9NO",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/4-metilformanilida.gif",
+    "image": "imagenes_espectros/Amidas/4-metilformanilida.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "4-metilformanilida",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1347,7 +1347,7 @@
     "formula": "C2H5NO",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/acetamida.gif",
+    "image": "imagenes_espectros/Amidas/acetamida.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "acetamida",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1358,7 +1358,7 @@
     "formula": "C8H9NO",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/acetanilida.gif",
+    "image": "imagenes_espectros/Amidas/acetanilida.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "acetanilida",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1369,7 +1369,7 @@
     "formula": "C4H9NO",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/butiramida.gif",
+    "image": "imagenes_espectros/Amidas/butiramida.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "butiramida",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1380,7 +1380,7 @@
     "formula": "C4H7NO2",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/diacetamida.gif",
+    "image": "imagenes_espectros/Amidas/diacetamida.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "diacetamida",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1391,7 +1391,7 @@
     "formula": "CH3NO",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/formamida.gif",
+    "image": "imagenes_espectros/Amidas/formamida.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "formamida",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1402,7 +1402,7 @@
     "formula": "C10H13NO",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/isobutiranilida.gif",
+    "image": "imagenes_espectros/Amidas/isobutiranilida.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "isobutiranilida",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1413,7 +1413,7 @@
     "formula": "C8H9NO",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/m-toluamida.gif",
+    "image": "imagenes_espectros/Amidas/m-toluamida.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "m-toluamida",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1424,7 +1424,7 @@
     "formula": "C5H11NO",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/n-n-dietilformamida.gif",
+    "image": "imagenes_espectros/Amidas/n-n-dietilformamida.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "N,N-dietilformamida",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1435,7 +1435,7 @@
     "formula": "C8H9NO",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/n-bencilformamida.gif",
+    "image": "imagenes_espectros/Amidas/n-bencilformamida.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "N-bencilformamida",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1446,7 +1446,7 @@
     "formula": "C10H13NO",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/n-etilacetanilida.gif",
+    "image": "imagenes_espectros/Amidas/n-etilacetanilida.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "N-etilacetanilida",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1457,7 +1457,7 @@
     "formula": "C3H7NO",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/n-etilformamida.gif",
+    "image": "imagenes_espectros/Amidas/n-etilformamida.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "N-etilformamida",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1468,7 +1468,7 @@
     "formula": "C10H13NO",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/n-fenilbutiramida.gif",
+    "image": "imagenes_espectros/Amidas/n-fenilbutiramida.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "n-fenilbutiramida",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1479,7 +1479,7 @@
     "formula": "C3H7NO",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/n-metilacetamida.gif",
+    "image": "imagenes_espectros/Amidas/n-metilacetamida.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "N-metilacetamida",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1490,7 +1490,7 @@
     "formula": "C2H5NO",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/n-metilformamida.gif",
+    "image": "imagenes_espectros/Amidas/n-metilformamida.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "N-metilformamida",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1501,7 +1501,7 @@
     "formula": "C4H9NO",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/n-propilformamida.gif",
+    "image": "imagenes_espectros/Amidas/n-propilformamida.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "n-propilformamida",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1512,7 +1512,7 @@
     "formula": "C5H11NO",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/n-terc-butilformamida.gif",
+    "image": "imagenes_espectros/Amidas/n-terc-butilformamida.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "N-terc-butilformamida",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1523,7 +1523,7 @@
     "formula": "C8H9NO",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/p-toluamida.gif",
+    "image": "imagenes_espectros/Amidas/p-toluamida.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "p-toluamida",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1534,7 +1534,7 @@
     "formula": "C3H7NO",
     "cas": "",
     "group": "Amidas",
-    "image": "imagenes_espectros/amidas/propionamida.gif",
+    "image": "imagenes_espectros/Amidas/propionamida.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "propionamida",
     "signalsReference": "C=O (amida I): 1630–1690 cm⁻¹; amida II: 1510–1570 cm⁻¹; N–H: 3200–3500 cm⁻¹ si está presente."
@@ -1545,7 +1545,7 @@
     "formula": "C6H15N",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/1-2-2-trimetilpropilamina.gif",
+    "image": "imagenes_espectros/Aminas/1-2-2-trimetilpropilamina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "1,2,2-trimetilpropilamina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1556,7 +1556,7 @@
     "formula": "C7H9N",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/2-6-dimetilpiridina.gif",
+    "image": "imagenes_espectros/Aminas/2-6-dimetilpiridina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2,6-dimetilpiridina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1567,7 +1567,7 @@
     "formula": "C7H9N",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/2-etilpiridina.gif",
+    "image": "imagenes_espectros/Aminas/2-etilpiridina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-etilpiridina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1578,7 +1578,7 @@
     "formula": "C5H6N2",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/2-metilpirazina.gif",
+    "image": "imagenes_espectros/Aminas/2-metilpirazina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-metilpirazina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1589,7 +1589,7 @@
     "formula": "C6H7N",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/2-metilpiridina.gif",
+    "image": "imagenes_espectros/Aminas/2-metilpiridina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-metilpiridina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1600,7 +1600,7 @@
     "formula": "C6H15N",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/3-3-dimetilbutilamina.gif",
+    "image": "imagenes_espectros/Aminas/3-3-dimetilbutilamina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3,3-dimetilbutilamina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1611,7 +1611,7 @@
     "formula": "C7H9N",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/3-etilpiridina.gif",
+    "image": "imagenes_espectros/Aminas/3-etilpiridina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-etilpiridina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1622,7 +1622,7 @@
     "formula": "C5H6N2",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/3-metilpiridazina.gif",
+    "image": "imagenes_espectros/Aminas/3-metilpiridazina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-metilpiridazina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1633,7 +1633,7 @@
     "formula": "C6H7N",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/3-metilpiridina.gif",
+    "image": "imagenes_espectros/Aminas/3-metilpiridina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-metilpiridina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1644,7 +1644,7 @@
     "formula": "C5H6N2",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/3-piridilamina.gif",
+    "image": "imagenes_espectros/Aminas/3-piridilamina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-piridilamina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1655,7 +1655,7 @@
     "formula": "C6H7N",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/4-metilpiridina.gif",
+    "image": "imagenes_espectros/Aminas/4-metilpiridina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "4-metilpiridina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1666,7 +1666,7 @@
     "formula": "C6H7N",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/anilina.gif",
+    "image": "imagenes_espectros/Aminas/anilina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "anilina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1677,7 +1677,7 @@
     "formula": "C7H9N",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/bencilamina.gif",
+    "image": "imagenes_espectros/Aminas/bencilamina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "bencilamina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1688,7 +1688,7 @@
     "formula": "C6H7N",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/di-2-propinil-amina.gif",
+    "image": "imagenes_espectros/Aminas/di-2-propinil-amina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "di(2-propinil)amina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1699,7 +1699,7 @@
     "formula": "C6H15N",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/hexilamina.gif",
+    "image": "imagenes_espectros/Aminas/hexilamina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "hexilamina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1710,7 +1710,7 @@
     "formula": "C3H9N",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/isopropilamina.gif",
+    "image": "imagenes_espectros/Aminas/isopropilamina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "isopropilamina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1721,7 +1721,7 @@
     "formula": "C7H9N",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/m-toluidina.gif",
+    "image": "imagenes_espectros/Aminas/m-toluidina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "m-toluidina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1732,7 +1732,7 @@
     "formula": "CH5N",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/metilamina.gif",
+    "image": "imagenes_espectros/Aminas/metilamina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "metilamina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1743,7 +1743,7 @@
     "formula": "C3H9N",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/propilamina.gif",
+    "image": "imagenes_espectros/Aminas/propilamina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "propilamina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1754,7 +1754,7 @@
     "formula": "C3H9N",
     "cas": "",
     "group": "Aminas",
-    "image": "imagenes_espectros/aminas/trimetilamina.gif",
+    "image": "imagenes_espectros/Aminas/trimetilamina.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "trimetilamina",
     "signalsReference": "N–H: 3300–3500 cm⁻¹ en aminas primarias/secundarias; flexión N–H: 1550–1650 cm⁻¹; C–N: 1020–1250 cm⁻¹."
@@ -1765,7 +1765,7 @@
     "formula": "C4H8O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/2-butanona.gif",
+    "image": "imagenes_espectros/Cetonas/2-butanona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-butanona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1776,7 +1776,7 @@
     "formula": "C7H14O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/2-heptanona.gif",
+    "image": "imagenes_espectros/Cetonas/2-heptanona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-heptanona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1787,7 +1787,7 @@
     "formula": "C9H18O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/2-nonanona.gif",
+    "image": "imagenes_espectros/Cetonas/2-nonanona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-nonanona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1798,7 +1798,7 @@
     "formula": "C8H16O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/2-octanona.gif",
+    "image": "imagenes_espectros/Cetonas/2-octanona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-octanona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1809,7 +1809,7 @@
     "formula": "C5H10O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/2-pentanona.gif",
+    "image": "imagenes_espectros/Cetonas/2-pentanona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "2-pentanona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1820,7 +1820,7 @@
     "formula": "C6H12O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/3-3-dimetil-2-butanona.gif",
+    "image": "imagenes_espectros/Cetonas/3-3-dimetil-2-butanona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3,3-dimetil-2-butanona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1831,7 +1831,7 @@
     "formula": "C10H20O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/3-decanona.gif",
+    "image": "imagenes_espectros/Cetonas/3-decanona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-decanona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1842,7 +1842,7 @@
     "formula": "C7H14O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/3-heptanona.gif",
+    "image": "imagenes_espectros/Cetonas/3-heptanona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-heptanona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1853,7 +1853,7 @@
     "formula": "C6H12O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/3-hexanona.gif",
+    "image": "imagenes_espectros/Cetonas/3-hexanona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-hexanona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1864,7 +1864,7 @@
     "formula": "C5H10O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/3-metil-2-butanona.gif",
+    "image": "imagenes_espectros/Cetonas/3-metil-2-butanona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-metil-2-butanona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1875,7 +1875,7 @@
     "formula": "C8H16O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/3-octanona.gif",
+    "image": "imagenes_espectros/Cetonas/3-octanona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-octanona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1886,7 +1886,7 @@
     "formula": "C5H10O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/3-pentanona.gif",
+    "image": "imagenes_espectros/Cetonas/3-pentanona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "3-pentanona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1897,7 +1897,7 @@
     "formula": "C7H14O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/4-heptanona.gif",
+    "image": "imagenes_espectros/Cetonas/4-heptanona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "4-heptanona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1908,7 +1908,7 @@
     "formula": "C6H12O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/4-metil-2-pentanona.gif",
+    "image": "imagenes_espectros/Cetonas/4-metil-2-pentanona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "4-metil-2-pentanona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1919,7 +1919,7 @@
     "formula": "C8H16O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/5-metil-3-heptanona.gif",
+    "image": "imagenes_espectros/Cetonas/5-metil-3-heptanona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "5-metil-3-heptanona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1930,7 +1930,7 @@
     "formula": "C8H8O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/acetofenona.gif",
+    "image": "imagenes_espectros/Cetonas/acetofenona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "acetofenona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1941,7 +1941,7 @@
     "formula": "C3H6O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/acetona.gif",
+    "image": "imagenes_espectros/Cetonas/acetona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "acetona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1952,7 +1952,7 @@
     "formula": "C13H10O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/benzofenona.gif",
+    "image": "imagenes_espectros/Cetonas/benzofenona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "benzofenona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1963,7 +1963,7 @@
     "formula": "C6H10O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/ciclohexanona.gif",
+    "image": "imagenes_espectros/Cetonas/ciclohexanona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "ciclohexanona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1974,7 +1974,7 @@
     "formula": "C5H8O",
     "cas": "",
     "group": "Cetonas",
-    "image": "imagenes_espectros/cetonas/ciclopentanona.gif",
+    "image": "imagenes_espectros/Cetonas/ciclopentanona.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "ciclopentanona",
     "signalsReference": "C=O: aproximadamente 1705–1725 cm⁻¹ (puede bajar por conjugación); C–H sp³: 2850–2960 cm⁻¹."
@@ -1985,7 +1985,7 @@
     "formula": "C11H20O2",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/2-ethylhexyl-acrylate.gif",
+    "image": "imagenes_espectros/Esteres/2-ethylhexyl-acrylate.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Acrilato de 2-etilhexilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
@@ -1996,7 +1996,7 @@
     "formula": "C9H10O2",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/acetato-de-bencilo.gif",
+    "image": "imagenes_espectros/Esteres/acetato-de-bencilo.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "acetato de bencilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
@@ -2007,7 +2007,7 @@
     "formula": "C4H8O2",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/acetato-de-etilo.gif",
+    "image": "imagenes_espectros/Esteres/acetato-de-etilo.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "acetato de etilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
@@ -2018,7 +2018,7 @@
     "formula": "C8H8O3",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/acetato-de-m-hidroxifenilo.gif",
+    "image": "imagenes_espectros/Esteres/acetato-de-m-hidroxifenilo.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "acetato de m-hidroxifenilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
@@ -2029,7 +2029,7 @@
     "formula": "C6H12O2",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/acetato-de-sec-butilo.gif",
+    "image": "imagenes_espectros/Esteres/acetato-de-sec-butilo.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "acetato de sec-butilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
@@ -2040,7 +2040,7 @@
     "formula": "C6H12O2",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/acetato-de-terc-butilo.gif",
+    "image": "imagenes_espectros/Esteres/acetato-de-terc-butilo.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "acetato de terc-butilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
@@ -2051,7 +2051,7 @@
     "formula": "C9H10O2",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/benzoato-de-etilo.gif",
+    "image": "imagenes_espectros/Esteres/benzoato-de-etilo.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "benzoato de etilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
@@ -2062,7 +2062,7 @@
     "formula": "C9H10O2",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/fenilacetato-de-metilo.gif",
+    "image": "imagenes_espectros/Esteres/fenilacetato-de-metilo.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "fenilacetato de metilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
@@ -2073,7 +2073,7 @@
     "formula": "C6H12O2",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/formato-de-isopentilo.gif",
+    "image": "imagenes_espectros/Esteres/formato-de-isopentilo.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "formato de isopentilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
@@ -2084,7 +2084,7 @@
     "formula": "C4H8O2",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/formiato-de-isopropilo.gif",
+    "image": "imagenes_espectros/Esteres/formiato-de-isopropilo.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "formiato de isopropilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
@@ -2095,7 +2095,7 @@
     "formula": "C7H14O2",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/hexanoato-de-metilo.gif",
+    "image": "imagenes_espectros/Esteres/hexanoato-de-metilo.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "hexanoato de metilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
@@ -2106,7 +2106,7 @@
     "formula": "C6H12O2",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/isobutirato-de-etilo.gif",
+    "image": "imagenes_espectros/Esteres/isobutirato-de-etilo.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "isobutirato de etilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
@@ -2117,7 +2117,7 @@
     "formula": "C8H8O3",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/m-hidroxibenzoato-de-metilo.gif",
+    "image": "imagenes_espectros/Esteres/m-hidroxibenzoato-de-metilo.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "m-hidroxibenzoato de metilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
@@ -2128,7 +2128,7 @@
     "formula": "C7H12O4",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/malonato-de-dietilo.gif",
+    "image": "imagenes_espectros/Esteres/malonato-de-dietilo.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "malonato de dietilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
@@ -2139,7 +2139,7 @@
     "formula": "C6H12O2",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/metanoato-de-pentilo.gif",
+    "image": "imagenes_espectros/Esteres/metanoato-de-pentilo.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "metanoato de pentilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
@@ -2150,7 +2150,7 @@
     "formula": "C5H8O2",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/methyl-methacrylate.gif",
+    "image": "imagenes_espectros/Esteres/methyl-methacrylate.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "Metacrilato de metilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
@@ -2161,7 +2161,7 @@
     "formula": "C4H8O2",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/propionato-de-metilo.gif",
+    "image": "imagenes_espectros/Esteres/propionato-de-metilo.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "propionato de metilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
@@ -2172,7 +2172,7 @@
     "formula": "C6H12O2",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/propionato-de-propilo.gif",
+    "image": "imagenes_espectros/Esteres/propionato-de-propilo.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "propionato de propilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
@@ -2183,7 +2183,7 @@
     "formula": "C5H8O2",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/propionato-de-vinilo.gif",
+    "image": "imagenes_espectros/Esteres/propionato-de-vinilo.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "propionato de vinilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
@@ -2194,7 +2194,7 @@
     "formula": "C6H12O2",
     "cas": "",
     "group": "Ésteres",
-    "image": "imagenes_espectros/esteres/valerato-de-metilo.gif",
+    "image": "imagenes_espectros/Esteres/valerato-de-metilo.gif",
     "origin": "Espectro GIF proporcionado por el usuario",
     "displayName": "valerato de metilo",
     "signalsReference": "C=O: 1735–1750 cm⁻¹ (puede bajar por conjugación); C–O: 1050–1300 cm⁻¹."
